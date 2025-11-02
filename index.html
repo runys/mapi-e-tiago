@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Wedding website for Mapi & Tiago - June 6th, 2026">
+    <title>Mapi & Tiago | 06.06.2026</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js"></script>
+</head>
+<body>
+    <!-- Language Switcher -->
+    <div class="language-switcher">
+        <button class="lang-btn active" data-lang="it">IT</button>
+        <button class="lang-btn" data-lang="en">EN</button>
+        <button class="lang-btn" data-lang="pt">PT</button>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1 class="names">Mapi & Tiago</h1>
+            <p class="date">06 . 06 . 2026</p>
+            <p class="welcome-message" data-translate="welcome">
+                Siamo felici di condividere con voi il nostro giorno speciale. Unitevi a noi mentre celebriamo il nostro amore e iniziamo questo nuovo capitolo insieme.
+            </p>
+        </div>
+    </section>
+
+    <!-- Photo Gallery Section -->
+    <section class="photo-gallery">
+        <div class="photo-cards">
+            <div class="photo-card">
+                <div class="photo-placeholder">
+                    <img src="images/image-1.jpeg" alt="Mapi & Tiago">
+                </div>
+            </div>
+            <div class="photo-card">
+                <div class="photo-placeholder">
+                    <img src="images/image-2.jpeg" alt="Mapi & Tiago">
+                </div>
+            </div>
+            <div class="photo-card">
+                <div class="photo-placeholder">
+                    <img src="images/image-3.jpeg" alt="Mapi & Tiago">
+                </div>
+            </div>
+            <div class="photo-card">
+                <div class="photo-placeholder">
+                    <img src="images/image-4.jpeg" alt="Mapi & Tiago">
+                </div>
+            </div>
+            <div class="photo-card">
+                <div class="photo-placeholder">
+                    <img src="images/image-5.jpeg" alt="Mapi & Tiago">
+                </div>
+            </div>
+            <div class="photo-card">
+                <div class="photo-placeholder">
+                    <img src="images/image-6.jpeg" alt="Mapi & Tiago">
+                </div>
+            </div>
+            <div class="photo-card">
+                <div class="photo-placeholder">
+                    <img src="images/image-7.jpeg" alt="Mapi & Tiago">
+                </div>
+            </div>
+            <div class="photo-card">
+                <div class="photo-placeholder">
+                    <img src="images/image-8.jpeg" alt="Mapi & Tiago">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Bento Grid Container -->
+    <div class="bento-grid">
+        
+        <!-- First Row: Wedding Details + Map -->
+        <div class="grid-row">
+            <!-- Wedding Details - Left Side -->
+            <section class="grid-item wedding-details">
+                <h2 data-translate="wedding-details">Dettagli del Matrimonio</h2>
+                <div class="detail-item">
+                    <h3 data-translate="date-label">Data</h3>
+                    <p>6 Giugno 2026</p>
+                </div>
+                <div class="detail-item">
+                    <h3 data-translate="time-label">Orario</h3>
+                    <p data-translate="time-tbd">Dalle XX:00 alle XX:00</p>
+                </div>
+                <div class="detail-item">
+                    <h3 data-translate="location-label">Luogo</h3>
+                    <p><strong>Fattoria Sociale Fuori di Zucca</strong></p>
+                    <p>Via Cangemi, 81030 Lusciano CE</p>
+                    <a href="https://maps.app.goo.gl/ifV7xwNga17N5ncE7" target="_blank" class="location-link" data-translate="view-map">Visualizza Mappa</a>
+                    <a href="https://www.fattoriafuoridizucca.it/" target="_blank" class="location-link" data-translate="visit-website">Visita il Sito</a>
+                </div>
+            </section>
+
+            <!-- Map Container - Right Side -->
+            <section class="map-container">
+                <div id="apple-map"></div>
+            </section>
+        </div>
+
+        <!-- Our Story -->
+        <section class="grid-item story">
+            <h2 data-translate="our-story">La Nostra Storia</h2>
+            <p data-translate="story-text">
+                È stato un colpo di fulmine per Mapi. Ci siamo connessi immediatamente e poi ci siamo innamorati perdutamente.
+            </p>
+        </section>
+
+        <!-- Dress Code Section -->
+        <div class="grid-row">
+            <!-- Dress Code Text - Left Side -->
+            <section class="grid-item dress-code">
+                <h2 data-translate="dress-code">Dress Code</h2>
+                <p data-translate="dress-code-text">
+                    Un evento rilassato con un tocco di classe. Gli uomini possono indossare completi di lino grigio chiaro o beige, mentre le donne possono scegliere abiti estivi da festa.
+                </p>
+            </section>
+
+            <!-- Dress Code Photos - Right Side -->
+            <div class="dress-code-photos">
+                <div class="dress-photo">
+                    <div class="photo-placeholder">
+                        <img src="images/dress-men.jpeg" alt="Dress code for men">
+                    </div>
+                </div>
+                <div class="dress-photo">
+                    <div class="photo-placeholder">
+                        <img src="images/dress-women.jpeg" alt="Dress code for women">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ETIAS Info -->
+        <section class="grid-item etias-info">
+            <h2 data-translate="travel-info">Informazioni di Viaggio</h2>
+            <p data-translate="etias-text">
+                <strong>Per ospiti brasiliani:</strong> Avrete bisogno di un passaporto valido. L'autorizzazione di viaggio ETIAS potrebbe essere richiesta a partire dall'ultimo trimestre del 2026.
+            </p>
+            <a href="https://travel-europe.europa.eu/en/etias" target="_blank" class="info-link" data-translate="learn-more">Maggiori Informazioni</a>
+        </section>
+
+        <!-- RSVP -->
+        <section class="grid-item rsvp">
+            <h2 data-translate="rsvp">RSVP</h2>
+            <p data-translate="rsvp-text">
+                Per favore, confermate la vostra presenza entro il 1° Aprile 2026.
+            </p>
+            <a href="https://tiagogomespereira.notion.site/1914f85c9f8a80348a14ed17c8ff9f85?pvs=105" target="_blank" class="rsvp-button" data-translate="rsvp-button">Conferma la Presenza</a>
+        </section>
+
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p data-translate="footer-text">Non vediamo l'ora di celebrare con voi!</p>
+        <p class="footer-names">Mapi & Tiago</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
