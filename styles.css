@@ -475,17 +475,17 @@ a:hover {
     display: block;
 }
 
-.etias-info {
+.travel-info {
     background: transparent;
-    margin-bottom: 6rem;
+    margin-bottom: 4rem;
 }
 
-.info-link {
-    display: inline-block;
-    margin-top: 0.75rem;
-    font-size: 0.875rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
+.travel-info:not(:last-of-type) {
+    margin-bottom: 4rem;
+}
+
+.travel-info:last-of-type {
+    margin-bottom: 6rem;
 }
 
 /* RSVP Section */
