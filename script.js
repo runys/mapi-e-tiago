@@ -6,7 +6,7 @@ const translations = {
     it: {
         welcome: "Siamo felici di condividere con voi il nostro giorno speciale. Unitevi a noi mentre celebriamo il nostro amore e iniziamo questo nuovo capitolo insieme.",
         "our-story": "La Nostra Storia",
-        "story-text": "È stato un colpo di fulmine per Mapi. Ci siamo connessi immediatamente e poi ci siamo innamorati perdutamente.",
+        "story-text": "Ci piace dire che la nostra storia è iniziata perché avevamo amici in comune, ma in realtà l'inizio è un po' più interessante di così. È un mix di TEDx Napoli, tempistiche complicate, richieste di amicizia sui social media mal calcolate, un incontro casuale e il reciproco interesse nel conoscersi.<br><br>Ci piace credere che entrambi abbiamo trovato nell'altro ciò che ci mancava in noi stessi e impariamo l'uno dall'altro quanto l'amore tra noi.<br><br>Molti aeroporti dopo, molte spiagge, montagne, sentieri, buon cibo e buon vino, treni, ospitare ed essere ospitati, terme, caffè, passeggiate e molto altro, siamo più che pronti a dire al mondo che la vita è un viaggio e abbiamo trovato la persona con cui vogliamo condividere questo lungo viaggio.",
         "wedding-details": "Dettagli del Matrimonio",
         "date-label": "Data",
         "time-label": "Orario",
@@ -27,7 +27,7 @@ const translations = {
     en: {
         welcome: "We are delighted to share our special day with you. Join us as we celebrate our love and begin this new chapter together.",
         "our-story": "Our Story",
-        "story-text": "It was love at first sight for Mapi. We connected immediately and then fell deeply in love.",
+        "story-text": "We like to say that our story started because we had friends in common, but in reality the beginning is a bit more interesting than that. It's a mix of TEDx Napoli, complicated timing, miscalculated social media friendship requests, a random encounter and the mutual interest in meeting each other.<br><br>We like to believe that we both found in each other what we missed in ourselves and we learn from one another as much as the love between us.<br><br>Many airports later, many beaches, mountains, trails, good food and good wine, trains, hosting and being hosted, thermal baths, coffees, walks and much more, we are more than ready to tell the world that life is a journey and we found the person we want to share this long trip with.",
         "wedding-details": "Wedding Details",
         "date-label": "Date",
         "time-label": "Time",
@@ -48,7 +48,7 @@ const translations = {
     pt: {
         welcome: "Estamos felizes em compartilhar nosso dia especial com vocês. Junte-se a nós enquanto celebramos nosso amor e começamos este novo capítulo juntos.",
         "our-story": "Nossa História",
-        "story-text": "Foi amor à primeira vista para a Mapi. Nos conectamos imediatamente e depois nos apaixonamos perdidamente.",
+        "story-text": "Gostamos de dizer que nossa história começou porque tínhamos amigos em comum, mas na realidade o começo é um pouco mais interessante do que isso. É uma mistura de TEDx Napoli, timing complicado, pedidos de amizade mal calculados nas redes sociais, um encontro do destino e o interesse mútuo em se conhecer.<br><br>Gostamos de acreditar que ambos encontramos um no outro o que nos faltava em nós mesmos e aprendemos um com o outro tanto quanto o amor que temos entre nós.<br><br>Muitos aeroportos depois, muitas praias, montanhas, trilhas, boa comida e bom vinho, trens, hospedar e ser hospedado, termas, cafés, caminhadas e muito mais, estamos mais do que prontos para dizer ao mundo que a vida é uma jornada e encontramos a pessoa com quem queremos compartilhar essa longa viagem.",
         "wedding-details": "Detalhes do Casamento",
         "date-label": "Data",
         "time-label": "Horário",
