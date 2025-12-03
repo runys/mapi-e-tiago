@@ -25,6 +25,7 @@ const translations = {
         "rsvp": "RSVP",
         "rsvp-text": "Per favore, confermate la vostra presenza entro il 1° Aprile 2026.",
         "rsvp-button": "Conferma la Presenza",
+        "rsvp-url": "https://tiagogomespereira.notion.site/2bc4f85c9f8a800a96a4f4c9ee96a31f?pvs=105",
         "footer-text": "Non vediamo l'ora di celebrare con voi!"
     },
     en: {
@@ -49,6 +50,7 @@ const translations = {
         "rsvp": "RSVP",
         "rsvp-text": "Please confirm your attendance by April 1st, 2026.",
         "rsvp-button": "Confirm Attendance",
+        "rsvp-url": "https://tiagogomespereira.notion.site/1914f85c9f8a80348a14ed17c8ff9f85",
         "footer-text": "We can't wait to celebrate with you!"
     },
     pt: {
@@ -73,6 +75,7 @@ const translations = {
         "rsvp": "RSVP",
         "rsvp-text": "Por favor, confirme sua presença até 1º de abril de 2026.",
         "rsvp-button": "Confirmar Presença",
+        "rsvp-url": "https://tiagogomespereira.notion.site/2bc4f85c9f8a80f3a849c6f0e8b20aa9?pvs=105",
         "footer-text": "Mal podemos esperar para celebrar com vocês!"
     }
 };
@@ -97,7 +100,13 @@ function setLanguage(lang) {
             element.innerHTML = translations[lang][key];
         }
     });
-    
+
+    // Update RSVP button link
+    const rsvpButton = document.querySelector('.rsvp-button');
+    if (rsvpButton && translations[lang]['rsvp-url']) {
+        rsvpButton.setAttribute('href', translations[lang]['rsvp-url']);
+    }
+
     // Update active button
     document.querySelectorAll('.lang-btn').forEach(btn => {
         btn.classList.remove('active');
