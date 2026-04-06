@@ -83,10 +83,9 @@
     <!-- Bento Grid Container -->
     <div class="bento-grid">
         
-        <!-- First Row: Wedding Details + Map -->
-        <div class="grid-row">
-            <!-- Wedding Details - Left Side -->
-            <section class="grid-item wedding-details">
+        <!-- Wedding Details with embedded Map -->
+        <section class="grid-item wedding-details">
+            <div class="wedding-details-content">
                 <h2 data-translate="wedding-details">Dettagli del Matrimonio</h2>
                 <div class="detail-item">
                     <h3 data-translate="date-label">Data</h3>
@@ -103,13 +102,67 @@
                     <a href="https://maps.app.goo.gl/ifV7xwNga17N5ncE7" target="_blank" class="location-link" data-translate="view-map">Visualizza Mappa</a>
                     <a href="https://www.fattoriafuoridizucca.it/" target="_blank" class="location-link" data-translate="visit-website">Visita il Sito</a>
                 </div>
-            </section>
-
-            <!-- Map Container - Right Side -->
-            <section class="map-container">
+            </div>
+            <div class="map-container">
                 <div id="apple-map"></div>
-            </section>
-        </div>
+            </div>
+        </section>
+
+        <!-- Day Agenda -->
+        <section class="grid-item agenda">
+            <h2 data-translate="agenda-title">Il Programma del Giorno</h2>
+            <div class="agenda-list">
+                <div class="agenda-item">
+                    <span class="agenda-time">15:30 – 16:30</span>
+                    <div class="agenda-detail">
+                        <strong data-translate="agenda-1-title">Accoglienza Ospiti</strong>
+                        <p data-translate="agenda-1-desc">Musica in sottofondo tra melodie brasiliane e classici napoletani.</p>
+                    </div>
+                </div>
+                <div class="agenda-item">
+                    <span class="agenda-time">16:30 – 17:30</span>
+                    <div class="agenda-detail">
+                        <strong data-translate="agenda-2-title">Cerimonia Simbolica</strong>
+                        <p data-translate="agenda-2-desc">Testimoni e familiari prendono la parola, seguiti dagli sposi. Si conclude con le foto di gruppo.</p>
+                    </div>
+                </div>
+                <div class="agenda-item">
+                    <span class="agenda-time">17:30 – 19:00</span>
+                    <div class="agenda-detail">
+                        <strong data-translate="agenda-3-title">Aperitivo & Foto</strong>
+                        <p data-translate="agenda-3-desc">Aperitivo con musica dal vivo e sessione fotografica con gli ospiti.</p>
+                    </div>
+                </div>
+                <div class="agenda-item">
+                    <span class="agenda-time">19:00 – 20:00</span>
+                    <div class="agenda-detail">
+                        <strong data-translate="agenda-4-title">Antipasto</strong>
+                        <p data-translate="agenda-4-desc">Antipasti in piedi mentre gli ospiti trovano i loro posti a sedere.</p>
+                    </div>
+                </div>
+                <div class="agenda-item">
+                    <span class="agenda-time">20:00 – 21:30</span>
+                    <div class="agenda-detail">
+                        <strong data-translate="agenda-5-title">Pranzo</strong>
+                        <p data-translate="agenda-5-desc">Primo e secondo con i sapori della tradizione campana.</p>
+                    </div>
+                </div>
+                <div class="agenda-item">
+                    <span class="agenda-time">21:30 – 22:30</span>
+                    <div class="agenda-detail">
+                        <strong data-translate="agenda-6-title">Tammorra</strong>
+                        <p data-translate="agenda-6-desc">Musica e danza tradizionale napoletana.</p>
+                    </div>
+                </div>
+                <div class="agenda-item">
+                    <span class="agenda-time">22:30 – 23:00</span>
+                    <div class="agenda-detail">
+                        <strong data-translate="agenda-7-title">Torta & Arrivederci</strong>
+                        <p data-translate="agenda-7-desc">Taglio della torta e saluti finali.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!-- Our Story -->
         <section class="grid-item story">
@@ -139,19 +192,12 @@
             <p data-translate="where-to-stay-text"></p>
         </section>
 
-        <!-- ETIAS Info -->
-        <section class="grid-item travel-info">
-            <h2 data-translate="etias-title">Informazioni di Viaggio per Ospiti Brasiliani</h2>
-            <p data-translate="etias-text"></p>
-        </section>
-
         <!-- RSVP -->
         <section class="grid-item rsvp">
             <h2 data-translate="rsvp">RSVP</h2>
             <p data-translate="rsvp-text">
                 Per favore, confermate la vostra presenza entro il 1° Aprile 2026.
             </p>
-            <a href="https://tiagogomespereira.notion.site/1914f85c9f8a80348a14ed17c8ff9f85?pvs=105" target="_blank" class="rsvp-button" data-translate="rsvp-button">Conferma la Presenza</a>
         </section>
 
     </div>

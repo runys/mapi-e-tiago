@@ -20,12 +20,23 @@ const translations = {
         "getting-to-naples-text": "<strong>Aeroporto di Napoli</strong><br>L'Aeroporto Internazionale di Napoli-Capodichino (NAP) è il modo più diretto per raggiungere la città. Offre voli diretti da diverse città europee e internazionali.<br>Maggiori informazioni: <a href=\"https://www.aeroportodinapoli.it\" target=\"_blank\">www.aeroportodinapoli.it</a><br><br><strong>Da Roma a Napoli in Treno</strong><br>Se volete visitare Roma prima del matrimonio, i treni ad alta velocità sono un'ottima opzione. Il viaggio dura circa un'ora da Roma Termini a Napoli Centrale.<br>Trenitalia: <a href=\"https://www.trenitalia.com\" target=\"_blank\">www.trenitalia.com</a><br>Italo: <a href=\"https://www.italotreno.it\" target=\"_blank\">www.italotreno.it</a>",
         "where-to-stay": "Dove Alloggiare",
         "where-to-stay-text": "Viaggiate dall'estero? Soggiornare a Napoli vi permette di esplorare la città e vivere l'atmosfera napoletana. Se invece preferite stare vicino alla location del matrimonio, la città di Aversa offre diverse opzioni di alloggio a pochi chilometri dalla Fattoria.",
-        "etias-title": "Informazioni di Viaggio per Ospiti Brasiliani",
-        "etias-text": "Avrete bisogno di un passaporto valido. L'autorizzazione di viaggio ETIAS potrebbe essere richiesta a partire dall'ultimo trimestre del 2026.<br>Maggiori informazioni: <a href=\"https://travel-europe.europa.eu/en/etias\" target=\"_blank\">travel-europe.europa.eu/en/etias</a>",
+        "agenda-title": "Il Programma del Giorno",
+        "agenda-1-title": "Accoglienza Ospiti",
+        "agenda-1-desc": "Musica in sottofondo tra melodie brasiliane e classici napoletani.",
+        "agenda-2-title": "Cerimonia Simbolica",
+        "agenda-2-desc": "Testimoni e familiari prendono la parola, seguiti dagli sposi. Si conclude con le foto di gruppo.",
+        "agenda-3-title": "Aperitivo & Foto",
+        "agenda-3-desc": "Aperitivo con musica dal vivo e sessione fotografica con gli ospiti.",
+        "agenda-4-title": "Antipasto",
+        "agenda-4-desc": "Antipasti in piedi mentre gli ospiti trovano i loro posti a sedere.",
+        "agenda-5-title": "Pranzo",
+        "agenda-5-desc": "Primo e secondo con i sapori della tradizione campana.",
+        "agenda-6-title": "Tammorra",
+        "agenda-6-desc": "Musica e danza tradizionale napoletana.",
+        "agenda-7-title": "Torta & Arrivederci",
+        "agenda-7-desc": "Taglio della torta e saluti finali.",
         "rsvp": "RSVP",
-        "rsvp-text": "Per favore, confermate la vostra presenza entro il 1° Aprile 2026.",
-        "rsvp-button": "Conferma la Presenza",
-        "rsvp-url": "https://tiagogomespereira.notion.site/2bc4f85c9f8a800a96a4f4c9ee96a31f?pvs=105",
+        "rsvp-text": "Stiamo ultimando i dettagli della lista degli ospiti e vi contatteremo presto con tutte le informazioni necessarie.",
         "footer-text": "Non vediamo l'ora di celebrare con voi!"
     },
     en: {
@@ -45,12 +56,23 @@ const translations = {
         "getting-to-naples-text": "<strong>Naples Airport</strong><br>Naples International Airport-Capodichino (NAP) is the most direct way to reach the city. It offers direct flights from various European and international cities.<br>More information: <a href=\"https://www.aeroportodinapoli.it\" target=\"_blank\">www.aeroportodinapoli.it</a><br><br><strong>From Rome to Naples by Train</strong><br>If you'd like to visit Rome before the wedding, high-speed trains are an excellent option. The journey takes about one hour from Roma Termini to Napoli Centrale.<br>Trenitalia: <a href=\"https://www.trenitalia.com\" target=\"_blank\">www.trenitalia.com</a><br>Italo: <a href=\"https://www.italotreno.it\" target=\"_blank\">www.italotreno.it</a>",
         "where-to-stay": "Where to Stay",
         "where-to-stay-text": "Traveling from abroad? Staying in Naples allows you to explore the city and experience the Neapolitan atmosphere. If you prefer to stay close to the wedding venue, the city of Aversa offers several accommodation options just a few kilometers from the Fattoria.",
-        "etias-title": "Travel Information for Brazilian Guests",
-        "etias-text": "You will need a valid passport. ETIAS travel authorization may be required starting in the last quarter of 2026.<br>More information: <a href=\"https://travel-europe.europa.eu/en/etias\" target=\"_blank\">travel-europe.europa.eu/en/etias</a>",
+        "agenda-title": "Day Schedule",
+        "agenda-1-title": "Guest Arrival",
+        "agenda-1-desc": "Background music featuring Brazilian melodies and Neapolitan classics.",
+        "agenda-2-title": "Symbolic Ceremony",
+        "agenda-2-desc": "Witnesses and family members take the floor, followed by the couple. Ends with a group photo.",
+        "agenda-3-title": "Aperitivo & Photos",
+        "agenda-3-desc": "Drinks and live music, with a group photo session with guests.",
+        "agenda-4-title": "Starter",
+        "agenda-4-desc": "Standing antipasto as guests find their assigned seats.",
+        "agenda-5-title": "Dinner",
+        "agenda-5-desc": "First and second courses with the flavours of Campanian tradition.",
+        "agenda-6-title": "Tammorra",
+        "agenda-6-desc": "Traditional Neapolitan music and dance.",
+        "agenda-7-title": "Cake & Farewell",
+        "agenda-7-desc": "Cake cutting and final goodbyes.",
         "rsvp": "RSVP",
-        "rsvp-text": "Please confirm your attendance by April 1st, 2026.",
-        "rsvp-button": "Confirm Attendance",
-        "rsvp-url": "https://tiagogomespereira.notion.site/1914f85c9f8a80348a14ed17c8ff9f85",
+        "rsvp-text": "We are finalising the details of our guest list and will be in touch shortly with everything you need to know.",
         "footer-text": "We can't wait to celebrate with you!"
     },
     pt: {
@@ -70,12 +92,23 @@ const translations = {
         "getting-to-naples-text": "<strong>Aeroporto de Nápoles</strong><br>O Aeroporto Internacional de Nápoles-Capodichino (NAP) é a forma mais direta de chegar à cidade. Oferece voos diretos de várias cidades europeias e internacionais.<br>Mais informações: <a href=\"https://www.aeroportodinapoli.it\" target=\"_blank\">www.aeroportodinapoli.it</a><br><br><strong>De Roma a Nápoles de Trem</strong><br>Se quiserem visitar Roma antes do casamento, os trens de alta velocidade são uma excelente opção. A viagem leva cerca de uma hora de Roma Termini a Napoli Centrale.<br>Trenitalia: <a href=\"https://www.trenitalia.com\" target=\"_blank\">www.trenitalia.com</a><br>Italo: <a href=\"https://www.italotreno.it\" target=\"_blank\">www.italotreno.it</a>",
         "where-to-stay": "Onde Ficar",
         "where-to-stay-text": "Viajando do exterior? Ficar em Nápoles permite explorar a cidade e vivenciar a atmosfera napolitana. Se preferem ficar perto do local do casamento, a cidade de Aversa oferece várias opções de acomodação a poucos quilômetros da Fattoria.",
-        "etias-title": "Informações de Viagem para Convidados Brasileiros",
-        "etias-text": "Você precisará de um passaporte válido. A autorização de viagem ETIAS pode ser necessária a partir do último trimestre de 2026.<br>Mais informações: <a href=\"https://travel-europe.europa.eu/en/etias\" target=\"_blank\">travel-europe.europa.eu/en/etias</a>",
+        "agenda-title": "Programa do Dia",
+        "agenda-1-title": "Chegada dos Convidados",
+        "agenda-1-desc": "Música ambiente com melodias brasileiras e clássicos napolitanos.",
+        "agenda-2-title": "Cerimónia Simbólica",
+        "agenda-2-desc": "Testemunhas e familiares tomam a palavra, seguidos dos noivos. Termina com a foto de grupo.",
+        "agenda-3-title": "Aperitivo & Fotos",
+        "agenda-3-desc": "Bebidas e música ao vivo, com sessão fotográfica com os convidados.",
+        "agenda-4-title": "Entrada",
+        "agenda-4-desc": "Antipasto em pé enquanto os convidados encontram os seus lugares.",
+        "agenda-5-title": "Jantar",
+        "agenda-5-desc": "Primeiro e segundo pratos com os sabores da tradição campana.",
+        "agenda-6-title": "Tammorra",
+        "agenda-6-desc": "Música e dança tradicional napolitana.",
+        "agenda-7-title": "Bolo & Despedida",
+        "agenda-7-desc": "Corte do bolo e despedidas finais.",
         "rsvp": "RSVP",
-        "rsvp-text": "Por favor, confirme sua presença até 1º de abril de 2026.",
-        "rsvp-button": "Confirmar Presença",
-        "rsvp-url": "https://tiagogomespereira.notion.site/2bc4f85c9f8a80f3a849c6f0e8b20aa9?pvs=105",
+        "rsvp-text": "Estamos a finalizar os detalhes da lista de convidados e entraremos em contacto em breve com tudo o que precisam de saber.",
         "footer-text": "Mal podemos esperar para celebrar com vocês!"
     }
 };
@@ -101,11 +134,6 @@ function setLanguage(lang) {
         }
     });
 
-    // Update RSVP button link
-    const rsvpButton = document.querySelector('.rsvp-button');
-    if (rsvpButton && translations[lang]['rsvp-url']) {
-        rsvpButton.setAttribute('href', translations[lang]['rsvp-url']);
-    }
 
     // Update active button
     document.querySelectorAll('.lang-btn').forEach(btn => {
