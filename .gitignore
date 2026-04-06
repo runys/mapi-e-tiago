@@ -1,1 +1,3 @@
 .DS_Store
+*.p8
+generate_mapkit_token.py

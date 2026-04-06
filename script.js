@@ -7,8 +7,12 @@ const translations = {
         welcome: "Siamo felici di condividere con voi il nostro giorno speciale. Unitevi a noi mentre celebriamo il nostro amore e iniziamo questo nuovo capitolo insieme.",
         "our-story": "La Nostra Storia",
         "story-text": "Ci piace dire che la nostra storia è iniziata perché avevamo amici in comune, ma in realtà l'inizio è un po' più interessante di così. È un mix di TEDx Napoli, tempistiche complicate, richieste di amicizia sui social media mal calcolate, un incontro casuale e il reciproco interesse nel conoscersi.<br><br>Ci piace credere che entrambi abbiamo trovato nell'altro ciò che ci mancava in noi stessi e impariamo l'uno dall'altro tanto quanto ci amiamo.<br><br>Molti aeroporti dopo, spiagge, montagne, sentieri, buon cibo e buon vino, treni, alloggi di fortuna, terme, caffè, passeggiate e molto altro, siamo più che pronti a dire al mondo che la vita è un viaggio e abbiamo trovato la persona con cui vogliamo condividerlo.",
+        "countdown-days": "giorni",
+        "countdown-hours": "ore",
+        "countdown-minutes": "minuti",
         "wedding-details": "Dettagli del Matrimonio",
         "date-label": "Data",
+        "date-value": "6 Giugno 2026",
         "time-label": "Orario",
         "time-tbd": "Dalle 15:30 alle 23:00",
         "location-label": "Luogo",
@@ -16,8 +20,8 @@ const translations = {
         "visit-website": "Visita il Sito",
         "dress-code": "Dress Code",
         "dress-code-text": "Celebriamo all'aperto tra i giardini! Scegliete un abbigliamento comodo e rilassato—pensate scarpe comode per l'erba e magari una giacca leggera per la sera. L'importante è sentirsi bene e pronti a festeggiare.",
-        "getting-to-naples": "Come Arrivare a Napoli",
-        "getting-to-naples-text": "<strong>Aeroporto di Napoli</strong><br>L'Aeroporto Internazionale di Napoli-Capodichino (NAP) è il modo più diretto per raggiungere la città. Offre voli diretti da diverse città europee e internazionali.<br>Maggiori informazioni: <a href=\"https://www.aeroportodinapoli.it\" target=\"_blank\">www.aeroportodinapoli.it</a><br><br><strong>Da Roma a Napoli in Treno</strong><br>Se volete visitare Roma prima del matrimonio, i treni ad alta velocità sono un'ottima opzione. Il viaggio dura circa un'ora da Roma Termini a Napoli Centrale.<br>Trenitalia: <a href=\"https://www.trenitalia.com\" target=\"_blank\">www.trenitalia.com</a><br>Italo: <a href=\"https://www.italotreno.it\" target=\"_blank\">www.italotreno.it</a>",
+        "getting-to-naples": "Come Arrivare",
+        "getting-to-naples-text": "<strong>Aeroporto di Napoli</strong><br>L'Aeroporto Internazionale di Napoli-Capodichino (NAP) è il modo più diretto per raggiungere la città. Offre voli diretti da diverse città europee e internazionali.<br>Maggiori informazioni: <a href=\"https://www.aeroportodinapoli.it\" target=\"_blank\">www.aeroportodinapoli.it</a><br><br><strong>Da Roma a Napoli in Treno</strong><br>Se volete visitare Roma prima del matrimonio, i treni ad alta velocità sono un'ottima opzione. Il viaggio dura circa un'ora da Roma Termini a Napoli Centrale.<br>Trenitalia: <a href=\"https://www.trenitalia.com\" target=\"_blank\">www.trenitalia.com</a> · Italo: <a href=\"https://www.italotreno.it\" target=\"_blank\">www.italotreno.it</a><br><br><strong>Da Napoli alla Fattoria</strong><br>La Fattoria Fuori di Zucca si trova a Lusciano (CE), a circa 30 km da Napoli — circa 35–40 minuti in auto. Il modo più comodo è un taxi o Uber direttamente dall'aeroporto o dalla stazione. In alternativa, il treno regionale Napoli–Aversa (circa 20 minuti) arriva ad Aversa, da dove la Fattoria è a soli 5 km in taxi.",
         "where-to-stay": "Dove Alloggiare",
         "where-to-stay-text": "Viaggiate dall'estero? Soggiornare a Napoli vi permette di esplorare la città e vivere l'atmosfera napoletana. Se invece preferite stare vicino alla location del matrimonio, la città di Aversa offre diverse opzioni di alloggio a pochi chilometri dalla Fattoria.",
         "agenda-title": "Il Programma del Giorno",
@@ -43,8 +47,12 @@ const translations = {
         welcome: "We are delighted to share our special day with you. Join us as we celebrate our love and begin this new chapter together.",
         "our-story": "Our Story",
         "story-text": "We like to say that our story started because we had friends in common, but in reality the beginning is a bit more interesting than that. It's a mix of TEDx Napoli, complicated timing, miscalculated social media friendship requests, a random encounter and the mutual interest in meeting each other.<br><br>We like to believe that we both found in each other what we missed in ourselves and we learn from one another as much as the love between us.<br><br>Many airports later, many beaches, mountains, trails, good food and good wine, trains, hosting and being hosted, thermal baths, coffees, walks and much more, we are more than ready to tell the world that life is a journey and we found the person we want to share this long trip with.",
+        "countdown-days": "days",
+        "countdown-hours": "hours",
+        "countdown-minutes": "minutes",
         "wedding-details": "Wedding Details",
         "date-label": "Date",
+        "date-value": "6 June 2026",
         "time-label": "Time",
         "time-tbd": "From 3:30 PM to 11:00 PM",
         "location-label": "Location",
@@ -52,8 +60,8 @@ const translations = {
         "visit-website": "Visit Website",
         "dress-code": "Dress Code",
         "dress-code-text": "We're celebrating outdoors in the gardens! Choose comfortable, relaxed attire—think comfortable shoes for grass and maybe a light jacket for the evening. The important thing is to feel good and ready to celebrate.",
-        "getting-to-naples": "Getting to Naples",
-        "getting-to-naples-text": "<strong>Naples Airport</strong><br>Naples International Airport-Capodichino (NAP) is the most direct way to reach the city. It offers direct flights from various European and international cities.<br>More information: <a href=\"https://www.aeroportodinapoli.it\" target=\"_blank\">www.aeroportodinapoli.it</a><br><br><strong>From Rome to Naples by Train</strong><br>If you'd like to visit Rome before the wedding, high-speed trains are an excellent option. The journey takes about one hour from Roma Termini to Napoli Centrale.<br>Trenitalia: <a href=\"https://www.trenitalia.com\" target=\"_blank\">www.trenitalia.com</a><br>Italo: <a href=\"https://www.italotreno.it\" target=\"_blank\">www.italotreno.it</a>",
+        "getting-to-naples": "Getting Here",
+        "getting-to-naples-text": "<strong>Naples Airport</strong><br>Naples International Airport-Capodichino (NAP) is the most direct way to reach the city. It offers direct flights from various European and international cities.<br>More information: <a href=\"https://www.aeroportodinapoli.it\" target=\"_blank\">www.aeroportodinapoli.it</a><br><br><strong>From Rome to Naples by Train</strong><br>If you'd like to visit Rome before the wedding, high-speed trains are an excellent option. The journey takes about one hour from Roma Termini to Napoli Centrale.<br>Trenitalia: <a href=\"https://www.trenitalia.com\" target=\"_blank\">www.trenitalia.com</a> · Italo: <a href=\"https://www.italotreno.it\" target=\"_blank\">www.italotreno.it</a><br><br><strong>From Naples to the Venue</strong><br>The Fattoria is in Lusciano (CE), about 30 km from Naples — roughly 35–40 minutes by car. The easiest option is a taxi or Uber directly from the airport or train station. Alternatively, the regional train from Naples to Aversa takes around 20 minutes, from where the Fattoria is just 5 km by taxi.",
         "where-to-stay": "Where to Stay",
         "where-to-stay-text": "Traveling from abroad? Staying in Naples allows you to explore the city and experience the Neapolitan atmosphere. If you prefer to stay close to the wedding venue, the city of Aversa offers several accommodation options just a few kilometers from the Fattoria.",
         "agenda-title": "Day Schedule",
@@ -79,8 +87,12 @@ const translations = {
         welcome: "Estamos felizes em compartilhar nosso dia especial com vocês. Junte-se a nós enquanto celebramos nosso amor e começamos este novo capítulo juntos.",
         "our-story": "Nossa História",
         "story-text": "Gostamos de dizer que nossa história começou porque tínhamos amigos em comum, mas na realidade o começo é um pouco mais interessante do que isso. É uma mistura de TEDx Napoli, timing complicado, pedidos de amizade mal calculados nas redes sociais, um encontro do destino e o interesse mútuo em se conhecer.<br><br>Gostamos de acreditar que ambos encontramos um no outro o que nos faltava em nós mesmos e aprendemos um com o outro tanto quanto o amor que temos entre nós.<br><br>Muitos aeroportos depois, muitas praias, montanhas, trilhas, boa comida e bom vinho, trens, hospedar e ser hospedado, termas, cafés, caminhadas e muito mais, estamos mais do que prontos para dizer ao mundo que a vida é uma jornada e encontramos a pessoa com quem queremos compartilhar essa longa viagem.",
+        "countdown-days": "dias",
+        "countdown-hours": "horas",
+        "countdown-minutes": "minutos",
         "wedding-details": "Detalhes do Casamento",
         "date-label": "Data",
+        "date-value": "6 de Junho de 2026",
         "time-label": "Horário",
         "time-tbd": "Das 15:30 às 23:00",
         "location-label": "Local",
@@ -88,8 +100,8 @@ const translations = {
         "visit-website": "Visitar Site",
         "dress-code": "Dress Code",
         "dress-code-text": "Vamos celebrar ao ar livre nos jardins! Escolham roupas confortáveis e descontraídas—pensem em sapatos confortáveis para a grama e talvez uma jaqueta leve para a noite. O importante é se sentir bem e pronto para celebrar.",
-        "getting-to-naples": "Como Chegar a Nápoles",
-        "getting-to-naples-text": "<strong>Aeroporto de Nápoles</strong><br>O Aeroporto Internacional de Nápoles-Capodichino (NAP) é a forma mais direta de chegar à cidade. Oferece voos diretos de várias cidades europeias e internacionais.<br>Mais informações: <a href=\"https://www.aeroportodinapoli.it\" target=\"_blank\">www.aeroportodinapoli.it</a><br><br><strong>De Roma a Nápoles de Trem</strong><br>Se quiserem visitar Roma antes do casamento, os trens de alta velocidade são uma excelente opção. A viagem leva cerca de uma hora de Roma Termini a Napoli Centrale.<br>Trenitalia: <a href=\"https://www.trenitalia.com\" target=\"_blank\">www.trenitalia.com</a><br>Italo: <a href=\"https://www.italotreno.it\" target=\"_blank\">www.italotreno.it</a>",
+        "getting-to-naples": "Como Chegar",
+        "getting-to-naples-text": "<strong>Aeroporto de Nápoles</strong><br>O Aeroporto Internacional de Nápoles-Capodichino (NAP) é a forma mais direta de chegar à cidade. Oferece voos diretos de várias cidades europeias e internacionais.<br>Mais informações: <a href=\"https://www.aeroportodinapoli.it\" target=\"_blank\">www.aeroportodinapoli.it</a><br><br><strong>De Roma a Nápoles de Comboio</strong><br>Se quiserem visitar Roma antes do casamento, os comboios de alta velocidade são uma excelente opção. A viagem demora cerca de uma hora de Roma Termini a Napoli Centrale.<br>Trenitalia: <a href=\"https://www.trenitalia.com\" target=\"_blank\">www.trenitalia.com</a> · Italo: <a href=\"https://www.italotreno.it\" target=\"_blank\">www.italotreno.it</a><br><br><strong>De Nápoles para a Quinta</strong><br>A Fattoria fica em Lusciano (CE), a cerca de 30 km de Nápoles — aproximadamente 35–40 minutos de carro. A opção mais cómoda é um táxi ou Uber diretamente do aeroporto ou da estação. Em alternativa, o comboio regional Nápoles–Aversa demora cerca de 20 minutos, e a partir daí a Fattoria fica a apenas 5 km de táxi.",
         "where-to-stay": "Onde Ficar",
         "where-to-stay-text": "Viajando do exterior? Ficar em Nápoles permite explorar a cidade e vivenciar a atmosfera napolitana. Se preferem ficar perto do local do casamento, a cidade de Aversa oferece várias opções de acomodação a poucos quilômetros da Fattoria.",
         "agenda-title": "Programa do Dia",
@@ -148,6 +160,29 @@ function setLanguage(lang) {
 }
 
 // ========================================
+// COUNTDOWN TIMER
+// ========================================
+
+function updateCountdown() {
+    const weddingDate = new Date('2026-06-06T15:30:00');
+    const now = new Date();
+    const diff = weddingDate - now;
+
+    if (diff <= 0) {
+        document.querySelector('.countdown').style.display = 'none';
+        return;
+    }
+
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+
+    document.getElementById('countdown-days').textContent = String(days).padStart(2, '0');
+    document.getElementById('countdown-hours').textContent = String(hours).padStart(2, '0');
+    document.getElementById('countdown-minutes').textContent = String(minutes).padStart(2, '0');
+}
+
+// ========================================
 // APPLE MAPKIT INITIALIZATION
 // ========================================
 
@@ -169,7 +204,7 @@ function initializeMap() {
     // Initialize MapKit with your token
     mapkit.init({
         authorizationCallback: function(done) {
-            done('eyJraWQiOiJRNTZMTUE5R1QyIiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiJSSFJIN01WM1ZEIiwiaWF0IjoxNzYyMTE1NjcyLCJleHAiOjE3NjI3NjE1OTl9.QhliZa9YM_A5Qgx3OwC-6xk-tpJdmmr1wR-kG-S0e486EG7pBQBx2ZrTVxsB0RA5NMI1P0JMEwe9MbI8CbhTaw');
+            done('eyJhbGciOiJFUzI1NiIsImtpZCI6IldOSjVZU0w1RjIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJSSFJIN01WM1ZEIiwiaWF0IjoxNzc1NDg3OTM1LCJleHAiOjE3OTEwMzk5MzV9.ceOCrWa1lI-KkABrR0SMycJNgJLw-Tar2wH23WoTeCG3ttQsTaISJEypvOMQVseT9qSH1QIJENkCJUSZLS5FBA');
         }
     });
 
@@ -208,6 +243,10 @@ function initializeMap() {
 document.addEventListener('DOMContentLoaded', () => {
     // Initialize Apple Map
     initializeMap();
+
+    // Start countdown
+    updateCountdown();
+    setInterval(updateCountdown, 60000);
     
     // Check for saved language preference
     const savedLang = localStorage.getItem('preferredLanguage');
