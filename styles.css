@@ -544,21 +544,14 @@ a:hover {
 }
 
 /* ========================================
-   DRESS CODE IMAGES
+   DRESS CODE HINT
    ======================================== */
 
-.dress-code-images {
-    display: flex;
-    gap: 1rem;
-    margin-top: 1.25rem;
-    flex-wrap: wrap;
-}
-
-.dress-code-images img {
-    height: 180px;
-    width: auto;
-    border-radius: 10px;
-    object-fit: cover;
+.dress-code-hint {
+    margin-top: 1.5rem;
+    font-style: italic;
+    color: var(--gray-500);
+    font-size: clamp(0.85rem, 1.5vw, 0.95rem);
 }
 
 /* ========================================
