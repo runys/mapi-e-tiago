@@ -670,22 +670,33 @@ footer p {
 .grid-item:nth-child(4) { animation-delay: 0.2s; }
 .grid-item:nth-child(5) { animation-delay: 0.25s; }
 
-.bank-details {
+.gifts {
     background: var(--gray-light);
-    border-radius: 12px;
-    padding: 2rem;
-    margin: 2rem 0;
+    border-color: var(--gray-light);
+}
+
+.bank-details {
+    background: var(--white);
+    border-radius: 14px;
+    padding: 1.75rem 2rem;
+    margin: 1.75rem 0;
+    font-family: 'SF Mono', 'Fira Mono', 'Courier New', monospace;
 }
 
 .bank-details h3 {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.25rem;
     text-transform: none;
-    font-size: 1rem;
+    font-size: 0.75rem;
+    font-family: 'SF Mono', 'Fira Mono', 'Courier New', monospace;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.5;
 }
 
 .bank-details p {
-    margin-bottom: 0.75rem;
-    font-size: 1rem;
+    margin-bottom: 0.6rem;
+    font-size: 0.9rem;
+    letter-spacing: 0.02em;
 }
 
 .bank-details p:last-child {
