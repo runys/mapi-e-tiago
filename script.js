@@ -28,8 +28,7 @@ const translations = {
         "reference": "Causale:",
         "getting-to-naples": "Come Arrivare",
         "getting-to-naples-text": "<strong>Aeroporto di Napoli</strong><br>L'Aeroporto Internazionale di Napoli-Capodichino (NAP) è il modo più diretto per raggiungere la città. Offre voli diretti da diverse città europee e internazionali.<br>Maggiori informazioni: <a href=\"https://www.aeroportodinapoli.it\" target=\"_blank\">www.aeroportodinapoli.it</a><br><br><strong>Da Roma a Napoli in Treno</strong><br>Se volete visitare Roma prima del matrimonio, i treni ad alta velocità sono un'ottima opzione. Il viaggio dura circa un'ora da Roma Termini a Napoli Centrale.<br>Trenitalia: <a href=\"https://www.trenitalia.com\" target=\"_blank\">www.trenitalia.com</a> · Italo: <a href=\"https://www.italotreno.it\" target=\"_blank\">www.italotreno.it</a><br><br><strong>Da Napoli alla Fattoria</strong><br>La Fattoria Fuori di Zucca si trova a Lusciano (CE), a circa 30 km da Napoli — circa 35–40 minuti in auto. Il modo più comodo è un taxi o Uber direttamente dall'aeroporto o dalla stazione. In alternativa, il treno regionale Napoli–Aversa (circa 20 minuti) arriva ad Aversa, da dove la Fattoria è a soli 5 km in taxi.",
-        "where-to-stay": "Dove Alloggiare",
-        "where-to-stay-text": "Viaggiate dall'estero? Soggiornare a Napoli vi permette di esplorare la città e vivere l'atmosfera napoletana. Se invece preferite stare vicino alla location del matrimonio, la città di Aversa offre diverse opzioni di alloggio a pochi chilometri dalla Fattoria.",
+
         "agenda-title": "Il Programma del Giorno",
         "agenda-1-title": "Accoglienza Ospiti",
         "agenda-1-desc": "Musica in sottofondo tra melodie brasiliane e classici napoletani.",
@@ -74,8 +73,7 @@ const translations = {
         "reference": "Reference:",
         "getting-to-naples": "Getting Here",
         "getting-to-naples-text": "<strong>Naples Airport</strong><br>Naples International Airport-Capodichino (NAP) is the most direct way to reach the city. It offers direct flights from various European and international cities.<br>More information: <a href=\"https://www.aeroportodinapoli.it\" target=\"_blank\">www.aeroportodinapoli.it</a><br><br><strong>From Rome to Naples by Train</strong><br>If you'd like to visit Rome before the wedding, high-speed trains are an excellent option. The journey takes about one hour from Roma Termini to Napoli Centrale.<br>Trenitalia: <a href=\"https://www.trenitalia.com\" target=\"_blank\">www.trenitalia.com</a> · Italo: <a href=\"https://www.italotreno.it\" target=\"_blank\">www.italotreno.it</a><br><br><strong>From Naples to the Venue</strong><br>The Fattoria is in Lusciano (CE), about 30 km from Naples — roughly 35–40 minutes by car. The easiest option is a taxi or Uber directly from the airport or train station. Alternatively, the regional train from Naples to Aversa takes around 20 minutes, from where the Fattoria is just 5 km by taxi.",
-        "where-to-stay": "Where to Stay",
-        "where-to-stay-text": "Traveling from abroad? Staying in Naples allows you to explore the city and experience the Neapolitan atmosphere. If you prefer to stay close to the wedding venue, the city of Aversa offers several accommodation options just a few kilometers from the Fattoria.",
+
         "agenda-title": "Day Schedule",
         "agenda-1-title": "Guest Arrival",
         "agenda-1-desc": "Background music featuring Brazilian melodies and Neapolitan classics.",
@@ -120,8 +118,7 @@ const translations = {
         "reference": "Referência:",
         "getting-to-naples": "Como Chegar",
         "getting-to-naples-text": "<strong>Aeroporto de Nápoles</strong><br>O Aeroporto Internacional de Nápoles-Capodichino (NAP) é a forma mais direta de chegar à cidade. Oferece voos diretos de várias cidades europeias e internacionais.<br>Mais informações: <a href=\"https://www.aeroportodinapoli.it\" target=\"_blank\">www.aeroportodinapoli.it</a><br><br><strong>De Roma a Nápoles de Trem</strong><br>Se quiserem visitar Roma antes do casamento, os trems de alta velocidade são uma excelente opção. A viagem demora cerca de uma hora de Roma Termini a Napoli Centrale.<br>Trenitalia: <a href=\"https://www.trenitalia.com\" target=\"_blank\">www.trenitalia.com</a> · Italo: <a href=\"https://www.italotreno.it\" target=\"_blank\">www.italotreno.it</a><br><br><strong>De Nápoles para a Quinta</strong><br>A Fattoria fica em Lusciano (CE), a cerca de 30 km de Nápoles — aproximadamente 35–40 minutos de carro. A opção mais cómoda é um táxi ou Uber diretamente do aeroporto ou da estação. Em alternativa, o trem regional Nápoles–Aversa demora cerca de 20 minutos, e a partir daí a Fattoria fica a apenas 5 km de táxi.",
-        "where-to-stay": "Onde Ficar",
-        "where-to-stay-text": "Viajando do exterior? Ficar em Nápoles permite explorar a cidade e vivenciar a atmosfera napolitana. Se preferem ficar perto do local do casamento, a cidade de Aversa oferece várias opções de acomodação a poucos quilômetros da Fattoria.",
+
         "agenda-title": "Programa do Dia",
         "agenda-1-title": "Chegada dos Convidados",
         "agenda-1-desc": "Música ambiente com melodias brasileiras e clássicos napolitanos.",
