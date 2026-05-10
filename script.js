@@ -38,7 +38,7 @@ const translations = {
         "agenda-3-desc": "Aperitivo con musica dal vivo e sessione fotografica con gli ospiti.",
         "agenda-4-title": "Antipasto",
         "agenda-4-desc": "Antipasti in piedi mentre gli ospiti trovano i loro posti a sedere.",
-        "agenda-5-title": "Pranzo",
+        "agenda-5-title": "Cena",
         "agenda-5-desc": "Primo e secondo con i sapori della tradizione campana.",
         "agenda-6-title": "Tammorra",
         "agenda-6-desc": "Musica e danza tradizionale napoletana.",
