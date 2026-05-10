@@ -111,8 +111,8 @@ const translations = {
         "view-map": "Ver Mapa",
         "visit-website": "Visitar Site",
         "dress-code": "Dress Code",
-        "dress-code-text": "Vamos celebrar ao ar livre nos jardins! Vestidos coloridos são muito bem-vindos — quanto mais alegres, melhor. Tons mais escuros também ficam ótimos à medida que a noite avança. Os homens podem optar por um fato leve, em lã fresca ou linho. Pensem em sapatos confortáveis para a relva e num casaco leve para a noite.",
-        "dress-code-hint": "Pesquisem \"vestido casamento verão italiano\" ou \"fato casamento verão italiano\" online e terão uma ideia perfeita!",
+        "dress-code-text": "Vamos celebrar ao ar livre nos jardins! Vestidos coloridos são muito bem-vindos — quanto mais alegres, melhor. Tons mais escuros também ficam ótimos à medida que a noite avança. Os homens podem optar por um terno leve, em lã fria ou linho. Pensem em sapatos confortáveis para o gramado e num casaco leve para a noite.",
+        "dress-code-hint": "Pesquisem \"vestido casamento verão italiano\" ou \"terno casamento verão italiano\" online e terão uma ideia perfeita!",
         "gifts-link": "Informações sobre presentes",
         "gifts-title": "Presentes",
         "gifts-intro": "Não temos uma lista de presentes (ainda precisamos terminar nossa mudança de abril de 2025) - mas temos muitos sonhos e viagens planejadas! Para nos ajudar a realizá-los, vocês podem optar por um presente prático e útil: uma transferência bancária. Prometemos fazer bom uso! 💸",
@@ -125,12 +125,12 @@ const translations = {
         "agenda-title": "Programa do Dia",
         "agenda-1-title": "Chegada dos Convidados",
         "agenda-1-desc": "Música ambiente com melodias brasileiras e clássicos napolitanos.",
-        "agenda-2-title": "Cerimónia Simbólica",
+        "agenda-2-title": "Cerimônia Simbólica",
         "agenda-2-desc": "Testemunhas e familiares tomam a palavra, seguidos dos noivos. Termina com a foto de grupo.",
         "agenda-3-title": "Aperitivo & Fotos",
         "agenda-3-desc": "Bebidas e música ao vivo, com sessão fotográfica com os convidados.",
         "agenda-4-title": "Entrada",
-        "agenda-4-desc": "Antipasto em pé enquanto os convidados encontram os seus lugares.",
+        "agenda-4-desc": "Antipasto em pé enquanto os convidados encontram seus lugares.",
         "agenda-5-title": "Jantar",
         "agenda-5-desc": "Primeiro e segundo pratos com os sabores da tradição campana.",
         "agenda-6-title": "Tammorra",
@@ -138,8 +138,8 @@ const translations = {
         "agenda-7-title": "Bolo & Despedida",
         "agenda-7-desc": "Corte do bolo e despedidas finais.",
         "rsvp": "RSVP",
-        "rsvp-text": "Estamos a finalizar os detalhes da lista de convidados e entraremos em contacto em breve com tudo o que precisam de saber.",
-        "footer-text": "Mal podemos esperar para celebrar com vocês!"
+        "rsvp-text": "Estamos finalizando os detalhes da lista de convidados e entraremos em contato em breve com tudo o que precisam saber.",
+        "footer-text": "Não vemos a hora de celebrar com vocês!"
     }
 };
 
