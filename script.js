@@ -45,8 +45,6 @@ const translations = {
         "agenda-6-desc": "Musica e danza tradizionale napoletana.",
         "agenda-7-title": "Torta & Arrivederci",
         "agenda-7-desc": "Taglio della torta e saluti finali.",
-        "rsvp": "RSVP",
-        "rsvp-text": "Stiamo ultimando i dettagli della lista degli ospiti e vi contatteremo presto con tutte le informazioni necessarie.",
         "footer-text": "Non vediamo l'ora di celebrare con voi!"
     },
     en: {
@@ -91,8 +89,6 @@ const translations = {
         "agenda-6-desc": "Traditional Neapolitan music and dance.",
         "agenda-7-title": "Cake & Farewell",
         "agenda-7-desc": "Cake cutting and final goodbyes.",
-        "rsvp": "RSVP",
-        "rsvp-text": "We are finalising the details of our guest list and will be in touch shortly with everything you need to know.",
         "footer-text": "We can't wait to celebrate with you!"
     },
     pt: {
@@ -137,8 +133,6 @@ const translations = {
         "agenda-6-desc": "Música e dança tradicional napolitana.",
         "agenda-7-title": "Bolo & Despedida",
         "agenda-7-desc": "Corte do bolo e despedidas finais.",
-        "rsvp": "RSVP",
-        "rsvp-text": "Estamos finalizando os detalhes da lista de convidados e entraremos em contato em breve com tudo o que precisam saber.",
         "footer-text": "Não vemos a hora de celebrar com vocês!"
     }
 };
